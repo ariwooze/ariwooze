@@ -44,4 +44,4 @@ and SQLAlchemy.
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** linkedin.com/in/ariana-falisya-aidy
+- **LinkedIn:** [Ariana Falisya Aidy](https://www.linkedin.com/in/ariana-falisya-aidy)
