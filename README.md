@@ -1,4 +1,4 @@
-# Hi, I'm Ariana Falisya👋
+# Hi, I'm Ariana 👋
 
 I'm a final-year Computer Science student specializing in Cybersecurity at
 Multimedia University.
